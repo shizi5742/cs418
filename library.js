@@ -143,3 +143,5 @@ let x = `<body style="background-color:#c5f5f1;"></body>
 	
 </form>
 </body>`
+
+let x = 10
